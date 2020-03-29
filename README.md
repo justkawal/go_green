@@ -8,4 +8,4 @@ Please consider donating if you think go_green is helpful to you or that my work
 
 Go Green design
 
-<img src="go_green_1.png" width="40%" height="40%"> <img src="go_green_2.png" width="40%" height="40%">
+<img src="go_green_1.png" width="45%" height="45%"> <img src="go_green_2.png" width="45%" height="45%">
